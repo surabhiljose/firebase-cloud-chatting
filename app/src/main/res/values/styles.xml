@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/abc_background_cache_hint_selector_material_light</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_search_url_text_selected</item>
+        <item name="android:textColorPrimary">@color/accent_material_light</item>
+        <item name="android:textColorSecondary">@color/abc_primary_text_disable_only_material_light</item>
+        <item name="android:textColorSecondaryInverse">@color/material_deep_teal_500</item>
+        <item name="android:colorBackground">@color/abc_primary_text_material_dark</item>
+
+    </style>
+
+    <style name="y1" parent="Theme.AppCompat.Light.NoActionBar" >
+        <item name="colorAccent">@color/material_deep_teal_200</item>
+    </style>
+
+    <style name="y2" parent="y1" >
+        <item name="colorPrimary">@color/holo_light_primary</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_dark</item>
+        <item name="colorAccent">@color/abc_search_url_text</item>
+    </style>
+
+
+</resources>

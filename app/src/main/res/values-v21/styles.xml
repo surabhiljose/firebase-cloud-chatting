@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+                <!-- Customize your theme here. -->
+
+                <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+                <item name="colorAccent">@color/abc_background_cache_hint_selector_material_light</item>
+                <item name="android:textColorPrimaryInverse">@color/abc_search_url_text_selected</item>
+                <item name="android:statusBarColor">@color/bright_foreground_material_light</item>
+                <item name="android:textColorPrimary">@color/accent_material_light</item>
+                <item name="android:textColorSecondary">@color/abc_primary_text_disable_only_material_light</item>
+
+                <item name="android:navigationBarColor">@color/abc_search_url_text_selected</item>
+                <item name="android:textColorSecondaryInverse">@color/abc_search_url_text</item>
+                <item name="android:colorBackground">@color/abc_primary_text_material_dark</item>
+                <item name="android:colorPrimary">@color/abc_secondary_text_material_dark</item>
+        </style>
+
+        <style name="tr3" parent="android:Theme.Material.NoActionBar" />
+
+
+</resources>
